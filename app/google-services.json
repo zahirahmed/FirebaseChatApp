@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "372284589380",
+    "firebase_url": "https://fir-chatapp-cdefb.firebaseio.com",
+    "project_id": "fir-chatapp-cdefb",
+    "storage_bucket": "fir-chatapp-cdefb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372284589380:android:984e8c36c60dd0fc",
+        "android_client_info": {
+          "package_name": "com.eleganzit.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372284589380-5v73vk62h6t1fmic7ekirn05ts3um87i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eleganzit.firebasechatapp",
+            "certificate_hash": "9d5569b44fddef7836d44a08518faf7727e21ce4"
+          }
+        },
+        {
+          "client_id": "372284589380-ckcuk3oj4hndfiaoqh1gmjkrosj5q0f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpQISq3BXTPoc731t_39DNiK_c6V-3wzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372284589380-ckcuk3oj4hndfiaoqh1gmjkrosj5q0f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
